@@ -1,0 +1,1 @@
+Oba projekty wykorzystuj¹ biblioteke requests, do zapytañ API. Pobrane dane, przestawione zosta³y za pomoc¹ wykresu który wykorzystuje biblioteke pygal.
