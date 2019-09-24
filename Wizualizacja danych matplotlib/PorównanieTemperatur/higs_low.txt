@@ -1,4 +1,0 @@
-projekt wykorzystuje bibliotekê matplotlib, do utworzenia wykresu.
-
-Program pobiera dane z pliku "sitka_weather_2018_simple", wyœwietla wybrane informacje, a nastêpnie wyœwietla na wykresie róznice pomiêdzy 
-najwy¿sz¹ a najni¿sz¹ temperatur¹.

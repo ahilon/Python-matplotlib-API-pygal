@@ -1,8 +1,0 @@
-projekt korzysta z biblioteki pygal, do zmodyfikowania stylu i biblioteli pygal.maps.world, by wyœwietliæ mapê œwiata.
-
-Program ma za zadanie pobraæ informacje z pliku "population_data.json", na temat populacji œwiata.
-program wyswietla informacje o populacji w poszczególnych pañstwach w 2010.
-Nastêpnie za pomoc¹ programu country_code, wyœwietla dwuznakowy kod danego pañstwa.
-Program dzili pañstwa na 3 grupy, ze wzglêdu na wielkoœc, a dane wyœwietla za pomoc¹ wykresu maps.world, w postaci pliku "world_population.svg"
-
-zosta³ utworzony unitest do "programu coutry_codes.py", który sprawdza czy po podaniu nazwy pañstwa, wyswietla siê odpowiedni dwuznakowy kod.

@@ -1,6 +1,0 @@
-Projekt wykorzystuj¹cy blibliteke pygal do wykreowania wykresu, i 
-bilioteke requests do zapytañ api.
-
-Program wysy³a zapytanie Api do seriwsu github, o informacje na temat repozytoriów powi¹zanych z jêzykiem programowania python, posortowanie wed³ug iloœci gwiazdek.
-
-Nastêpnie request, przedstawiony jest za pomoc¹ wykresu, i zapisany w pliku "python_repos.svg"
