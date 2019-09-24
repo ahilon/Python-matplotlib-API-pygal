@@ -1,0 +1,3 @@
+program wykorzystuje biblioteke matplotlib do wykreowania wykresu.
+
+Program zosta³ stworzony jako klasa, która wyœwietli wykres porównania temperatur, dla ka¿dego pliku, który ma w sobie tego typu informacjê..
