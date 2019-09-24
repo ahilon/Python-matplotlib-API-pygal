@@ -1,1 +1,1 @@
-"# Python-matplotlib-API-pygal" 
+# Python-matplotlib-API-pygal"
