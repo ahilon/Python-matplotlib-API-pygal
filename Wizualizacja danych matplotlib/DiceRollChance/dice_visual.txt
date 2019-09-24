@@ -1,0 +1,5 @@
+Program korzysta z biblioteki pygal, do wizualizacji danych za pomoc¹ wykresu.
+
+Program "dice_visual.py" ma za zadanie 50000 razy zasymulowaæ rzut dwoma koœci do gry o 6 œcianach.
+wyniki zosta³y przedstawione za pomoc¹ wykresu, i zapisane w pliku "die_visual.svg".
+program "dice.py" zawiera w sobie klasê, która symuluje koœæ o 6 œcianach, i symuluje rzut.

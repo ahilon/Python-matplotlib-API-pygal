@@ -1,0 +1,4 @@
+program wykorzystuje biblioteke matplotlib do stworzenia wykresu.
+
+Zadaniem programu jest stworzenie wykresu, który pokazuje wartoœc kwadratu liczb z zakresu od 1 do 1000.
+wykres zosta³ zapisany w postaci pliku png.

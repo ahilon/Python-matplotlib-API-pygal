@@ -1,0 +1,8 @@
+projekt korzysta z biblioteki matplotlib do stworzenia wykresu, i bliboloteki random do zasymulowania b³adzenia losowego.
+
+Zadaniem programu rw_visual, jest zasymulowanie b³¹dzenia loswego, program losowo wybiera czy chce iœc w góre czy w dó³, i o ile kroków z
+zakresu miêdzy 1 a 8, nastêpnie analogicznie tylko kierunki wybierane sa za pomoc¹ osi Y.
+Nastêpnie przesuwa punkt, o wartoœc zasymulowanego skoku. Program wykonuje losowoœc, 50000 razy.
+
+program rw_visual, ma za zadanie zwizualizowaæ b³¹dzenie losowe, pierwsze kroki sa oznaczone ciemniejszym, a ostatnie jaœniejszym kolorem.
+Program ma dzia³ac, dopóki u¿ytkownik nie zarz¹da zakoñczenia.
